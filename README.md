@@ -1,2 +1,3 @@
 ## Read Me
-But don't really
+
+Example Next Js App. Just playing around with Vercel deploys
